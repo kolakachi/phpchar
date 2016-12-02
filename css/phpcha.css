@@ -1,0 +1,9 @@
+body{ background-color:#33647B;}
+#wrapper{width:700px; background-color:#fff; margin:10px auto 10px auto; }
+#top{ width:400px; text-align:center; margin:10px auto 10px auto; background-color:#fff;}
+table, .form{ margin:10px auto; border:1px solid #000; width:300px; text-align:center;}
+td{border:1px solid #000;}
+ul{margin:10px auto; width:230px;}
+li{ display:inline; padding:3px;}
+a{ text-decoration:none; color:#fff;}
+a:hover{ border-bottom:2px solid #fff;}
