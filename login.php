@@ -1,5 +1,6 @@
 <?php
-/*I assumed that the user is going to be interacting with the  database directly,i created a login page to restrict access to the application making the admin the only one able to access the application.
+/*I assumed that the user is going to be interacting with the  database directly,
+i created a login page to restrict access to the application making the admin the only one able to access the application.
 */
 
    //including the controller to reduce rewrite of few codes
