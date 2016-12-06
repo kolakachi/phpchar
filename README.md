@@ -4,5 +4,6 @@ and  sqlite database.
 #concerning the full application I assumed that the user is going to be interacting with the  database directly, so
 i created a login page to restrict access to the application making the admin the only one able to access the application.
 #i also added little css design to make the app presentable.
+#assuming the repository "phpchar" is the "http://localhost/"
 
 
