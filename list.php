@@ -5,7 +5,8 @@
   //start session
   session_start();
   
-  //if session is not set go to login page else create new controller object, query the database and store the resuts in variable records
+  /*if session is not set go to login page else create new controller object, 
+  query the database and store the resuts in variable records*/
   if(!isset($_SESSION['pw'])){
 	  header('location:login.php');}
 	  $dsn=new sqdbc();
